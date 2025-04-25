@@ -23,6 +23,9 @@ A lightweight web application that displays a random image using the [Picsum API
 - ⚡ Instant random image on each visit
 - 🌗 Light/Dark mode with smooth transitions
 - 💡 Minimalistic and responsive UI
+- 🖼️ Image modal view with download option
+- 🔄 One-click image refresh
+- 🛡️ Error handling with fallback image sources
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -34,6 +37,7 @@ A lightweight web application that displays a random image using the [Picsum API
 - CSS3 (with transitions)
 - JavaScript (Vanilla)
 - [Picsum API](https://picsum.photos)
+- [Unsplash Source API](https://source.unsplash.com) (fallback)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,6 +53,9 @@ To run the project locally:
 git clone https://github.com/SiddarthaKarri/RandomImageGen.git
 cd RandomImageGen
 ```
+
+Open `index.html` in your browser to start using the app.
+
 ---
 ## Contributors
 | [<img src="https://github.com/SiddarthaKarri.png" width="100px;" alt="Siddartha Karri"/><br /><sub><b>Siddartha Karri</b></sub>](https://github.com/SiddarthaKarri) | [<img src="https://github.com/K-Harish05.png" width="100px;" alt="K Harish"/><br /><sub><b>K Harish</b></sub>](https://github.com/K-Harish05) |
