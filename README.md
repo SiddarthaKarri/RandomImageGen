@@ -16,7 +16,7 @@
 
 ## 🧾 About The Project
 
-A lightweight web application that displays a random image using the [Picsum API](https://picsum.photos), with a toggle for light/dark themes.
+A lightweight web application that displays a random image using the [Picsum API](https://picsum.photos), with a toggle for light/dark modes.
 
 ### Features
 
